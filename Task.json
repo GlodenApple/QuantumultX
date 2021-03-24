@@ -24,7 +24,6 @@
         }, 
         {
             "config": "6 23 * * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/ziye/shuqi.js, tag=书旗小说, img-url=https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Icon/task/Shuqixiaoshuo.png, enabled=true",
-            "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/ziye/shuqibody.txt, tag=书旗body, update-interval=-1, opt-parser=false, enabled=true"
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/ziye/shuqiheader.txt, tag=书旗header, update-interval=-1, opt-parser=false, enabled=true"
         }, 
         {
