@@ -25,43 +25,43 @@
         {
             "config": "6 23 * * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/ziye/shuqi.js, tag=书旗小说, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/baiduspeed.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/ziye/shuqiheader.txt, tag=书旗header, update-interval=-1, opt-parser=false, enabled=true"
-        }
+        }, 
         {
             "config": "6 23 * * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/ziye/shuqi.js, tag=书旗极速, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/baiduspeed.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/ziye/shuqibody.txt, tag=书旗body, update-interval=-1, opt-parser=false, enabled=true"
-        }
+        }, 
         {
             "config": "0,30 0-23 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/ziye/bububao.js, tag=步步宝, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/baiduspeed.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/ziye/bububao.txt, tag=步步宝, update-interval=-1, opt-parser=false, enabled=true"
-        }
+        }, 
         {
             "config": "50 7 0-23 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/ziye/xiaole.js, tag=小乐, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/baiduspeed.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/ziye/xiaole.txt, tag=小乐, update-interval=-1, opt-parser=false, enabled=true"
-        }
+        }, 
         {
             "config": "*/20 0-8 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/feizao/cfz.js, tag=春风转, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/baiduspeed.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/feizao/chunfengzhuan.txt, tag=春风转, update-interval=-1, opt-parser=false, enabled=true"
-        }
+        }, 
         {
             "config": "20 0-9 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/feizao/fqkk.js, tag=番茄看看, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/baiduspeed.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/feizao/fanqiekankan.txt, tag=番茄看看, update-interval=-1, opt-parser=false, enabled=true"
-        }
+        }, 
         {
             "config": "5 10-23 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/feizao/ysm.js, tag=云扫码, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/baiduspeed.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/feizao/yunsaoma.txt, tag=云扫码, update-interval=-1, opt-parser=false, enabled=true"
-        }
+        }, 
         {
             "config": "*/27 0-22 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/feizao/wkzz.js, tag=微客, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/baiduspeed.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/feizao/weikezongzhi.txt, tag=微客, update-interval=-1, opt-parser=false, enabled=true"
-        }
+        }, 
         {
             "config": "50 25 16 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/feizao/yggy.js, tag=阳光果园, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/baiduspeed.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/feizao/guoyuan.txt, tag=阳光果园, update-interval=-1, opt-parser=false, enabled=true"
-        }
+        }, 
         {
             "config": "15 13,15,17,19 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/feizao/hldsp.js, tag=哈啰视频, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/baiduspeed.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/feizao/haluo.txt, tag=哈啰视频, update-interval=-1, opt-parser=false, enabled=true"
-        }
+        }, 
         {
             "config": "5,35 9-22 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/feizao/66yd.js, tag=66阅读, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/baiduspeed.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/feizao/66read.txt, tag=66阅读, update-interval=-1, opt-parser=false, enabled=true"
