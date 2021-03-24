@@ -34,7 +34,6 @@
             "config": "0,30 0-23 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/ziye/bububao.js, tag=步步宝, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/baiduspeed.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/ziye/bububao.txt, tag=步步宝, update-interval=-1, opt-parser=false, enabled=true"
         }
-       
         {
             "config": "50 7 0-23 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/ziye/xiaole.js, tag=小乐, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/baiduspeed.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/ziye/xiaole.txt, tag=小乐, update-interval=-1, opt-parser=false, enabled=true"
