@@ -19,7 +19,7 @@
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/sunert/baidu.txt, tag=百度极速, update-interval=-1, opt-parser=false, enabled=true"
         }, 
         {
-            "config": "48 8-15 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/ziye/iboxpay.js, tag=笑谱, img-url=https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Icon/task/iboxpay.png, enabled=true", 
+            "config": "48 8-15 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/ziye/iboxpay.js, tag=笑谱, img-url=https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Icon/task/Xiaopu.png, enabled=true", 
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/ziye/xiaoputoken.txt, tag=笑谱, update-interval=-1, opt-parser=false, enabled=true"
         }, 
         {
