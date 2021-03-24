@@ -67,9 +67,5 @@
             "config": "5,35 9-22 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/feizao/66yd.js, tag=66阅读, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/baiduspeed.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/feizao/66read.txt, tag=66阅读, update-interval=-1, opt-parser=false, enabled=true"
         }
-        {
-            "config": "*/30 */5 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/feizao/fqkk.js, tag=番茄看看, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/baiduspeed.png, enabled=true",
-            "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/ziye/shuqibody.txt, tag=番茄看看, update-interval=-1, opt-parser=false, enabled=true"
-        }
     ]
 }
