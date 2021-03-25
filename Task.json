@@ -65,6 +65,10 @@
         {
             "config": "5,35 9-22 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/ziye/QQread.js , tag=QQ阅读, img-url=https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Icon/task/QQread.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/ziye/qqread.txt, tag=QQ阅读, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
+            "config": "16 0 7,10,23 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/ziye/flw.js , tag=返利网, img-url=https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Icon/task/flw.png, enabled=true",
+            "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/ziye/flwheader.txt, tag=返利网header, update-interval=-1, opt-parser=false, enabled=true"
         }
     ]
 }
