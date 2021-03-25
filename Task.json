@@ -61,6 +61,10 @@
         {
             "config": "5,35 9-22 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/feizao/66yd.js, tag=66阅读, img-url=https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Icon/task/66rd.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/feizao/66read.txt, tag=66阅读, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
+            "config": "5,35 9-22 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/ziye/QQread.js , tag=QQ阅读, img-url=https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Icon/task/QQread.png, enabled=true",
+            "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/ziye/qqread.txt, tag=QQ阅读, update-interval=-1, opt-parser=false, enabled=true"
         }
     ]
 }
