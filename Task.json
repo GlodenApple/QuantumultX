@@ -43,7 +43,7 @@
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/feizao/fanqiekankan.txt, tag=番茄看看, update-interval=-1, opt-parser=false, enabled=true"
         }, 
         {
-            "config": "5 10-23 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/feizao/ysm.js, tag=云扫码, img-url=https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Icon/task/Yunsaoma.png, enabled=true",
+            "config": "13 12,14,16,20,22 * * * https://raw.githubusercontent.com/age174/-/main/ysm.js, tag=云扫码, img-url=https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Icon/task/Yunsaoma.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/feizao/yunsaoma.txt, tag=云扫码, update-interval=-1, opt-parser=false, enabled=true"
         }, 
         {
