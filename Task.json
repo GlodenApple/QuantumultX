@@ -39,7 +39,7 @@
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/feizao/chunfengzhuan.txt, tag=春风转, update-interval=-1, opt-parser=false, enabled=true"
         }, 
         {
-            "config": "20 0-9 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/feizao/fqkk.js, tag=番茄看看, img-url=https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Icon/task/Fanqiekankan.png, enabled=true",
+            "config": "20 0-9 * * * https://raw.githubusercontent.com/age174/-/main/fqkk.js, tag=番茄看看, img-url=https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Icon/task/Fanqiekankan.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/feizao/fanqiekankan.txt, tag=番茄看看, update-interval=-1, opt-parser=false, enabled=true"
         }, 
         {
