@@ -69,6 +69,14 @@
         {
             "config": "16 0 7,10,23 * * * https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/ziye/flw.js , tag=返利网, img-url=https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Icon/task/flw.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/ziye/flwheader.txt, tag=返利网header, update-interval=-1, opt-parser=false, enabled=true"
+        },
+         {
+            "config": "5 9-22 * * * https://raw.githubusercontent.com/age174/-/main/wcyd.js , tag=文创阅读, img-url=https://ae01.alicdn.com/kf/Ua6bd9417d492473f8ca0c3110b2176307.jpg, enabled=true",
+            "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/feizao/wcyd.txt, tag=文创阅读, update-interval=-1, opt-parser=false, enabled=true"
+        },
+         {
+            "config": "20 9 * * * https://raw.githubusercontent.com/age174/-/main/ximei.js , tag=西梅, img-url=https://ae01.alicdn.com/kf/Ucd02ea79ef22473daf3576486d134509Q.jpg, enabled=true",
+            "addons": "https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Rewrite/feizao/xm.txt, tag=西梅, update-interval=-1, opt-parser=false, enabled=true"
         }
     ]
 }
