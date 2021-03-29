@@ -1,4 +1,4 @@
 hostname = m.*
 
 #番茄看看
-^http://m.*./reada/getTask url script-request-header https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/feizao/fqkk.js
+^http://m.*./reada/getTask url script-request-header https://raw.githubusercontent.com/age174/-/main/fqkk.js
