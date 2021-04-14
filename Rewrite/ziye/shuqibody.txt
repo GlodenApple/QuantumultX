@@ -7,5 +7,4 @@ hostname =render.shuqireader.com,ocean.shuqireader.com,jcollection.shuqireader.c
 https:\/\/ocean\.shuqireader\.com\/* url script-request-body https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/ziye/shuqi.js
 #收益 任务 极速版任务
 https:\/\/render\.shuqireader\.com\/* url script-request-body https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/ziye/shuqi.js
-#时长
-https:\/\/jcollection\.shuqireader\.com\/* url script-request-body https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/ziye/shuqi.js
+
