@@ -1,4 +1,4 @@
 hostname = miaogouguanggaotest.haimiaogou.com
 
 #讯播广告
-https://miaogouguanggaotest.haimiaogou.com/api/Order/add url script-request-header https://github.com/GlodenApple/QuantumultX/blob/master/Script/money/xbgg.js
+https://miaogouguanggaotest.haimiaogou.com/api/Order/add url script-request-header https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/money/xbgg.js
