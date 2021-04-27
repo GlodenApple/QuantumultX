@@ -1,6 +1,0 @@
-hostname =render.shuqireader.com,ocean.shuqireader.com,jcollection.shuqireader.com,activity-center-web.shuqireader.com
-
-#书旗小说body获取(ziye
-
-#时长
-https:\/\/jcollection\.shuqireader\.com\/* url script-request-body https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/ziye/shuqi.js

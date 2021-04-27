@@ -1,4 +1,0 @@
-hostname = wx.tiantianaiyuedu.site
-
-#微客众智
-^http://wx.tiantianaiyuedu.site/ url script-request-body https://raw.githubusercontent.com/GlodenApple/QuantumultX/master/Script/feizao/wkzz.js
